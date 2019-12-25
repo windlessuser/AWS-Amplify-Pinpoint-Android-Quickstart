@@ -34,8 +34,8 @@ amplify configure
 After that's done, we need to initialise the project
 
 ```
-git clone $PROJECT_GIT_URL
-cd $PROJECT
+git clone https://github.com/windlessuser/AWS-Amplify-Pinpoint-Android-Quickstart.git
+cd AWS-Amplify-Pinpoint-Android-Quickstart
 amplify init
 ```
 
