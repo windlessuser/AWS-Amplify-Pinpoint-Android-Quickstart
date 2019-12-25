@@ -1,4 +1,4 @@
- .gradle
+ .gradle/
 /local.properties
 .DS_Store
 build/
@@ -14,6 +14,7 @@ amplify/.config/local-*
 amplify/mock-data
 amplify/backend/amplify-meta.json
 amplify/backend/awscloudformation
+amplify
 build/
 dist/
 node_modules/
